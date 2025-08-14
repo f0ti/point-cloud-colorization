@@ -1,4 +1,5 @@
 # Point Cloud Colorization using Image-to-Image Translation
+Publication available on [ResearchGate](https://www.researchgate.net/publication/391392097_Point_Cloud_Colorization_using_Image-to-Image_Translation).
 
 This project explores mapping LiDAR point cloud attributes (coordinates, intensity) to color representations using cross-domain image-to-image translation with GANs. We project top-view images from LiDAR data and train different GAN models (pix2pix, CycleGAN) to generate colored representations while preserving structural consistency.
 
