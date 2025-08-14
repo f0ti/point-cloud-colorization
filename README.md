@@ -10,7 +10,7 @@ The final outputs are colorized point clouds reconstructed into a 3D view.
 
 ## Models
 - Pix2Pix Unet + Resnet
-- CycleGAN Resnet
+- CycleGAN Unet + Resnet
 - Progressive Growing of GANs
 
 ![CycleGAN](cyclegan.png)
